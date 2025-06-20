@@ -1,8 +1,11 @@
 # End_to_End-DE-project
 End_to_End Data Engineering Project
-📂 Project Overview
 
+
+📂 Project Overview
 This project implements an end-to-end streaming ETL pipeline for processing Netflix titles data, leveraging Azure Data Factory (ADF) for orchestration and Databricks for transformation and enrichment. The pipeline follows a medallion architecture: Raw → Bronze → Silver → Gold.
+
+
 
 📁 Directory Structure
 .
