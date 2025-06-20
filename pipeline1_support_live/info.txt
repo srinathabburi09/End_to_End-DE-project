@@ -1,0 +1,6 @@
+selected resource name:		pipeline1
+selected resource type:		pipeline
+factory name:			data-factory-srinath
+factory location:		eastus
+subscription id:		6ac00eec-3dd8-45c4-b830-c5c1a4eedc4a
+time of download (UTC):		Fri, 20 Jun 2025 10:08:39 GMT
